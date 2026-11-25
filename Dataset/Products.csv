@@ -1,0 +1,18 @@
+ProductID,ProductName,Category,UnitCost,ListPrice
+P001,Laptop,Technology,1743.0,2416.27
+P002,Monitor,Technology,13965.0,22114.15
+P003,Keyboard,Technology,1684.0,2061.66
+P004,Mouse,Technology,12598.0,20642.36
+P005,Headphones,Technology,13283.0,20581.35
+P006,Printer,Technology,13736.0,17035.57
+P007,Office Chair,Furniture,15139.0,20502.37
+P008,Desk,Furniture,8189.0,13229.98
+P009,Bookshelf,Furniture,14100.0,22090.44
+P010,Filing Cabinet,Furniture,11642.0,16163.81
+P011,Table Lamp,Furniture,8190.0,11798.96
+P012,Notebook,Office Supplies,4206.0,5089.24
+P013,Pen Set,Office Supplies,15470.0,22847.37
+P014,Paper,Office Supplies,14923.0,22926.22
+P015,Stapler,Office Supplies,12654.0,20704.83
+P016,Desk Organizer,Office Supplies,6478.0,10363.29
+P017,Whiteboard,Office Supplies,12250.0,15575.63
